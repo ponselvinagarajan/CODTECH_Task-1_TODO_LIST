@@ -21,3 +21,4 @@ Technologies Used
 HTML: For the structure of the application, including input fields, buttons, and lists.
 CSS: For styling the application, making it visually appealing and responsive.
 JavaScript: For adding interactivity, such as handling task addition, deletion, and status changes
+![Task-1](https://github.com/user-attachments/assets/fd6257fb-7319-432a-9c78-67df6c61a280)
